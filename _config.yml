@@ -1,6 +1,7 @@
 # Site settings
 title: Canaride
 email: canaride@gmail.com
+phone: +0 (033) 6.59.60.16.64
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
